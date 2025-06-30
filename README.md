@@ -68,5 +68,24 @@ This project focuses on analyzing hotel booking data to derive meaningful busine
 - [ ] Integrating SQL for relational queries and performance  
 - [ ] Building Tableau dashboard for advanced visualization  
 - [ ] Automating KPI generation using DAX and SQL views
+       
+---
+
+## About Me
+
+**Divya Chauhan**  
+Aspiring Data Analyst | Excel, SQL, Tableau ,Power Bi , Python ,Data Analysis 
+
+---
+
+## Project Status
+
+Still Running  
+Dashboards available  
+Suitable for portfolio and interview discussion
+
+---
+
+
 
 
