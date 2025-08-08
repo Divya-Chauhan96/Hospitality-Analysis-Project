@@ -80,7 +80,7 @@ Aspiring Data Analyst | Excel, SQL, Tableau ,Power Bi , Python ,Data Analysis
 
 ## Project Status
 
-Still Running  
+Completed  
 Dashboards available  
 Suitable for portfolio and interview discussion
 
